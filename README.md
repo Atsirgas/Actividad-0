@@ -3,7 +3,7 @@
 ## Evaluacion inical
 ---
 
-1. ¿Que es una página web?
+1. ¿Qué es una página web?
 
     Una **pagina web** es un conjunto de información que se encuentra en una dirección determinada de internet.
     
